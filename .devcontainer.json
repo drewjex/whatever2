@@ -1,0 +1,9 @@
+{
+  "name": "Zilch Bot",
+  "postAttachCommand": "./connect --welcome",
+  "customizations": {
+    "codespaces": {
+      "openFiles": ["bot.js"]
+    }
+  }
+}
